@@ -1,1 +1,1 @@
-#POKEGAME 
+*POKEGAME 
